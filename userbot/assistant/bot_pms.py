@@ -109,10 +109,10 @@ async def bot_start(event):
                         \n\nPowered by [Catuserbot](https://t.me/catuserbot)"
         buttons = [
             (
-                Button.url("Repo", "https://github.com/dangerbots/danger_cat"),
+                Button.url("Repo", "https://github.com/dangerbots/Eros"),
                 Button.url(
                     "Dev",
-                    "https://t.me/DANGER_OF_TELEGRAM",
+                    "https://t.me/getIn_Eros",
                 ),
             )
         ]
